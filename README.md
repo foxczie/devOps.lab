@@ -1,4 +1,3 @@
-
 👩‍💻 Sobre mim
 
 Olá! Me chamo **Alessandra**, sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Impacta**. Este repositório faz parte das atividades práticas desenvolvidas durante os laboratórios da faculdade.
